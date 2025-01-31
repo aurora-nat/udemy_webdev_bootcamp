@@ -1,0 +1,23 @@
+img {
+    border: solid brown 10px;
+    width: 100%;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+p[id="tag"]{
+    font-size: large;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-transform:capitalize;
+}
+
+p[id="text"]{
+    font-family: "Caveat", serif;
+    font-size: 40px;
+    text-align: justify;
+}
